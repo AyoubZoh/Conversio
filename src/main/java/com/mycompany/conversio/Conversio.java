@@ -20,6 +20,6 @@ public class Conversio {
         int valor_euro = sc.nextInt();
                 
         double tipus_de_canvi = 0.87;
-        System.out.println("  Actua lmentt equ ivalen a " + (valor_euro * tipus_de_canvi) + " lliures");
+        System.out.println("  Actualmentt equivalen a " + (valor_euro * tipus_de_canvi) + " lliures");
     }
 }
