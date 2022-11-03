@@ -20,6 +20,6 @@ public class Conversio {
         int valor_lliura = sc.nextInt();
                 
         double tipus_de_canvi = 1.15;
-        System.out.println(valor_lliura + "  actualmentt equivalen a" + (valor_lliura * tipus_de_canvi) + " eiros");
+        System.out.println("  Actualmentt equivalen a " + (valor_lliura * tipus_de_canvi) + " euros");
     }
 }
